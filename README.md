@@ -7,3 +7,13 @@
 - [x] 使用mini-create-react-app创建项目
 ### 未完成
 - [ ] react-scripts中的命令
+### 使用说明
+```
+git clone https://github.com/Magua-Q/mini-create-react-app.git
+
+cd mini-creata-react-app
+
+yarn install
+
+npm run create-react-app
+```

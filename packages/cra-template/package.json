@@ -1,0 +1,26 @@
+{
+  "name": "cra-template",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "erickangxu <erickangxu@tencent.com>",
+  "homepage": "https://github.com/Magua-Q/mini-create-react-app#readme",
+  "license": "ISC",
+  "main": "lib/cra-template.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magua-Q/mini-create-react-app.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Magua-Q/mini-create-react-app/issues"
+  }
+}

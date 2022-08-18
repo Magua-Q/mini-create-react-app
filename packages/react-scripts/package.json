@@ -1,0 +1,29 @@
+{
+  "name": "react-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./bin/react-scripts build"
+  },
+  "bin": {
+    "react-scripts": "./bin/react-scripts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^8.2.5",
+    "babel-preset-react-app": "^10.0.1",
+    "chalk": "4.1.2",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "open": "^8.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.74.0",
+    "webpack-dev-server": "^4.10.0"
+  }
+}
